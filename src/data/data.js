@@ -7,7 +7,7 @@ export const skins = [
     stealth: "💨💨💨",
     extracao: "💎💎💎",
     vida: "❤️❤️❤️",
-    image: "../src/images/nuvem.jpg",
+    image: "/helenas_world/images/nuvem.jpg",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const skins = [
     stealth: "💨💨💨",
     extracao: "💎💎💎",
     vida: "❤️❤️❤️",
-    image: "../src/images/bella.jpg",
+    image: "/helenas_world/images/bella.jpg",
   },
   {
     id: 3,
@@ -27,6 +27,6 @@ export const skins = [
     stealth: "💨💨💨",
     extracao: "💎💎💎",
     vida: "❤️❤️❤️",
-    image: "../src/images/princess.jpg",
+    image: "/helenas_world/images/princess.jpg",
   },
 ];
