@@ -1,0 +1,32 @@
+export const skins = [
+  {
+    id: 1,
+    name: "Nuvem",
+    skill: "🔥🔥🔥",
+    speed: "⚡⚡⚡",
+    stealth: "💨💨💨",
+    extracao: "💎💎💎",
+    vida: "❤️❤️❤️",
+    image: "../src/images/nuvem.jpg",
+  },
+  {
+    id: 2,
+    name: "Bella",
+    skill: "🔥🔥🔥",
+    speed: "⚡⚡⚡",
+    stealth: "💨💨💨",
+    extracao: "💎💎💎",
+    vida: "❤️❤️❤️",
+    image: "../src/images/bella.jpg",
+  },
+  {
+    id: 3,
+    name: "Princess",
+    skill: "🔥🔥🔥",
+    speed: "⚡⚡⚡",
+    stealth: "💨💨💨",
+    extracao: "💎💎💎",
+    vida: "❤️❤️❤️",
+    image: "../src/images/princess.jpg",
+  },
+];
